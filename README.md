@@ -52,6 +52,4 @@ This Jupyter Notebook provides a comprehensive guide to download and analyze his
 
 This project is open-source and available for modification and redistribution.
 
----
 
-This README offers an overview and instructions for using the notebook effectively. Let me know if you'd like any changes or additional information!
